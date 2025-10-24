@@ -113,7 +113,6 @@ goiantuan: {
             meals: [
                 {
                     day: 'Thứ 2',
-                    dayName: 'MONDAY',
                     dayNumber: '23',
                     breakfast: { 
                         name: 'Bánh canh cá lóc lứt & cá chẽm', 
@@ -128,7 +127,6 @@ goiantuan: {
                     },
                     lunch: { 
                         name: 'Ức gà nướng mầm tỏi', 
-                        nameEn: 'Grilled chicken breast with garlic sprouts',
                         img: '/asset/img/menukhachle/it_calo/bo_nuong_khoai_lang.png', 
                         kcal: '274',
                         energy: '524',
@@ -139,7 +137,6 @@ goiantuan: {
                     },
                     dinner: { 
                         name: 'Salad caesar & tôm', 
-                        nameEn: 'Caesar salad with shrimp',
                         img: '/asset/img/menukhachle/it_calo/mi_tom_Nhat.png', 
                         kcal: '341',
                         energy: '581',
@@ -151,11 +148,9 @@ goiantuan: {
                 },
                 {
                     day: 'Thứ 3',
-                    dayName: 'TUESDAY',
                     dayNumber: '23',
                     breakfast: { 
                         name: 'Bún gạo lứt thịt heo nướng', 
-                        nameEn: 'Brown rice noodle with grilled pork',
                         img: '/asset/img/menukhachle/can_doi/com_trang_bo.png', 
                         kcal: '438',
                         energy: '517',
@@ -166,7 +161,6 @@ goiantuan: {
                     },
                     lunch: { 
                         name: 'Bạch tuột nướng mầm me', 
-                        nameEn: 'Grilled octopus with tamarind',
                         img: '/asset/img/menukhachle/it_calo/ca_hoi_rau_cu.png', 
                         kcal: '320',
                         energy: '508',
@@ -177,7 +171,6 @@ goiantuan: {
                     },
                     dinner: { 
                         name: 'Cá nướng xoài tây sốt tăm ớt chia đậu mù', 
-                        nameEn: 'Grilled chicken asparagus & fresh herb',
                         img: '/asset/img/menukhachle/it_calo/uc_ga_khoai_tay.png', 
                         kcal: '285',
                         energy: '575',
@@ -189,11 +182,9 @@ goiantuan: {
                 },
                 {
                     day: 'Thứ 4',
-                    dayName: 'WEDNESDAY',
                     dayNumber: '21',
                     breakfast: { 
                         name: 'Cơm trộn bò nướng hàn quốc', 
-                        nameEn: 'Korean bibimbap with grilled beef rice bowl',
                         img: '/asset/img/menukhachle/can_doi/mi_tom_dau.png', 
                         kcal: '435',
                         energy: '517',
@@ -204,7 +195,6 @@ goiantuan: {
                     },
                     lunch: { 
                         name: 'Xà lách cá hồi nướng & sốt mật ong', 
-                        nameEn: 'Grilled salmon salad & honey',
                         img: '/asset/img/menukhachle/it_calo/mi_ga_sot_cajun.png', 
                         kcal: '351',
                         energy: '637',
@@ -215,7 +205,6 @@ goiantuan: {
                     },
                     dinner: { 
                         name: 'Khoai tây sốt hầm hạt đậu & gà nướng', 
-                        nameEn: 'Potatoe mushroom potatoes & chicken',
                         img: '/asset/img/menukhachle/it_calo/ca_ngu_khoai_bap.png', 
                         kcal: '311',
                         energy: '503',
@@ -227,11 +216,9 @@ goiantuan: {
                 },
                 {
                     day: 'Thứ 5',
-                    dayName: 'THURSDAY',
                     dayNumber: '24',
                     breakfast: { 
                         name: 'Cơm ớt nướng bulgogi', 
-                        nameEn: 'Bulgogi sweet potato bowl',
                         img: '/asset/img/menukhachle/can_doi/nui_ca_hoi.png', 
                         kcal: '508',
                         energy: '482',
@@ -242,7 +229,6 @@ goiantuan: {
                     },
                     lunch: { 
                         name: 'Xà lách cá bò tôm nướng', 
-                        nameEn: 'Pumpkin seeds & goat cheese',
                         img: '/asset/img/menukhachle/it_calo/ga_sot_cajun_cu_den.png', 
                         kcal: '373',
                         energy: '512',
@@ -253,7 +239,6 @@ goiantuan: {
                     },
                     dinner: { 
                         name: 'Gà nướng khoai lang sốt pesto', 
-                        nameEn: 'Pesto sweet potatoes & grilled',
                         img: '/asset/img/menukhachle/it_calo/mi_ca_basa.png', 
                         kcal: '439',
                         energy: '499',
@@ -265,11 +250,9 @@ goiantuan: {
                 },
                 {
                     day: 'Thứ 6',
-                    dayName: 'FRIDAY',
                     dayNumber: '32',
                     breakfast: { 
                         name: 'Gà nướng, khoai lang & sốt cà chua', 
-                        nameEn: 'Grilled chicken with sweet potatoes & tomato sauce',
                         img: '/asset/img/menukhachle/can_doi/com_gao_lut_uc_vit.png', 
                         kcal: '485',
                         energy: '597',
@@ -280,7 +263,6 @@ goiantuan: {
                     },
                     lunch: { 
                         name: 'Cơm cá ngừ nướng sốt ponzu', 
-                        nameEn: 'Grilled tuna bowl with ponzu sauce',
                         img: '/asset/img/menukhachle/it_calo/bo_bong_cai_xanh.png', 
                         kcal: '341',
                         energy: '498',
@@ -290,8 +272,7 @@ goiantuan: {
                         fiber: '8'
                     },
                     dinner: { 
-                        name: 'Gỏi hải sản kiểu pn', 
-                        nameEn: 'Vn-style seafood salad',
+                        name: 'Soup cá ngừ bí đỏ hạt chia', 
                         img: '/asset/img/menukhachle/it_calo/uc_vit_bi_do.png', 
                         kcal: '341',
                         energy: '506',
@@ -321,11 +302,9 @@ goiantuan: {
             meals: [
                 {
                     day: 'Thứ 2',
-                    dayName: 'MONDAY',
                     dayNumber: '23',
                     breakfast: { 
                         name: 'Cơm gạo lứt bò gà', 
-                        nameEn: 'Brown rice with beef & chicken',
                         img: '/asset/img/menukhachle/giau_dam/com_gao_lut_bo_ga.png', 
                         kcal: '562',
                         energy: '562',
@@ -336,7 +315,6 @@ goiantuan: {
                     },
                     lunch: { 
                         name: 'Bò tôm khoai tây', 
-                        nameEn: 'Beef & shrimp with potatoes',
                         img: '/asset/img/menukhachle/giau_dam/bo_tom_khoai_tay.png', 
                         kcal: '615',
                         energy: '615',
@@ -347,7 +325,6 @@ goiantuan: {
                     },
                     dinner: { 
                         name: 'Cơm trắng bò', 
-                        nameEn: 'White rice with beef',
                         img: '/asset/img/menukhachle/can_doi/com_trang_bo.png', 
                         kcal: '438',
                         energy: '438',
@@ -359,11 +336,9 @@ goiantuan: {
                 },
                 {
                     day: 'Thứ 3',
-                    dayName: 'TUESDAY',
                     dayNumber: '23',
                     breakfast: { 
                         name: 'Mì bơ cá basa', 
-                        nameEn: 'Butter noodle with basa fish',
                         img: '/asset/img/menukhachle/giau_dam/mi_bo_ca_basa.png', 
                         kcal: '560',
                         energy: '560',
@@ -374,7 +349,6 @@ goiantuan: {
                     },
                     lunch: { 
                         name: 'Ức vịt tôm', 
-                        nameEn: 'Duck breast with shrimp',
                         img: '/asset/img/menukhachle/giau_dam/uc_vit_tom.png', 
                         kcal: '584',
                         energy: '584',
@@ -385,7 +359,6 @@ goiantuan: {
                     },
                     dinner: { 
                         name: 'Cơm gạo lứt cá hồi', 
-                        nameEn: 'Brown rice with salmon',
                         img: '/asset/img/menukhachle/can_doi/com_gao_lut_ca_hoi.png', 
                         kcal: '435',
                         energy: '435',
@@ -397,11 +370,9 @@ goiantuan: {
                 },
                 {
                     day: 'Thứ 4',
-                    dayName: 'WEDNESDAY',
                     dayNumber: '21',
                     breakfast: { 
                         name: 'Cơm gạo lứt bò gà khoai', 
-                        nameEn: 'Brown rice with beef chicken potato',
                         img: '/asset/img/menukhachle/giau_dam/com_gao_lut_bo_ga_khoai.png', 
                         kcal: '720',
                         energy: '720',
@@ -412,7 +383,6 @@ goiantuan: {
                     },
                     lunch: { 
                         name: 'Nui ức gà', 
-                        nameEn: 'Pasta with chicken breast',
                         img: '/asset/img/menukhachle/giau_dam/nui_uc_ga.png', 
                         kcal: '611',
                         energy: '611',
@@ -423,7 +393,6 @@ goiantuan: {
                     },
                     dinner: { 
                         name: 'Mì tôm đậu', 
-                        nameEn: 'Noodle with shrimp & tofu',
                         img: '/asset/img/menukhachle/can_doi/mi_tom_dau.png', 
                         kcal: '435',
                         energy: '435',
@@ -435,11 +404,9 @@ goiantuan: {
                 },
                 {
                     day: 'Thứ 5',
-                    dayName: 'THURSDAY',
                     dayNumber: '24',
                     breakfast: { 
                         name: 'Cơm gạo lứt bò vịt', 
-                        nameEn: 'Brown rice with beef & duck',
                         img: '/asset/img/menukhachle/giau_dam/com_gao_lut_bo_vit.png', 
                         kcal: '583',
                         energy: '583',
@@ -450,7 +417,6 @@ goiantuan: {
                     },
                     lunch: { 
                         name: 'Cơm gạo lứt bò khoai', 
-                        nameEn: 'Brown rice with beef & sweet potato',
                         img: '/asset/img/menukhachle/giau_dam/com_gao_lut_bo_khoai.png', 
                         kcal: '649',
                         energy: '649',
@@ -461,7 +427,6 @@ goiantuan: {
                     },
                     dinner: { 
                         name: 'Nui cá hồi', 
-                        nameEn: 'Pasta with salmon',
                         img: '/asset/img/menukhachle/can_doi/nui_ca_hoi.png', 
                         kcal: '508',
                         energy: '508',
@@ -473,11 +438,9 @@ goiantuan: {
                 },
                 {
                     day: 'Thứ 6',
-                    dayName: 'FRIDAY',
                     dayNumber: '32',
                     breakfast: { 
                         name: 'Cơm trắng bò bắp', 
-                        nameEn: 'White rice with beef & corn',
                         img: '/asset/img/menukhachle/giau_dam/com_trang_bo_bap.png', 
                         kcal: '611',
                         energy: '611',
@@ -488,7 +451,6 @@ goiantuan: {
                     },
                     lunch: { 
                         name: 'Cơm trắng gà cá hồi', 
-                        nameEn: 'White rice with chicken & salmon',
                         img: '/asset/img/menukhachle/giau_dam/com_trang_ga_ca_hoi.png', 
                         kcal: '617',
                         energy: '617',
@@ -499,7 +461,6 @@ goiantuan: {
                     },
                     dinner: { 
                         name: 'Cơm gạo lứt ức vịt', 
-                        nameEn: 'Brown rice with duck breast',
                         img: '/asset/img/menukhachle/can_doi/com_gao_lut_uc_vit.png', 
                         kcal: '485',
                         energy: '485',
@@ -529,11 +490,9 @@ goiantuan: {
             meals: [
                 {
                     day: 'Thứ 2',
-                    dayName: 'MONDAY',
                     dayNumber: '23',
                     breakfast: { 
                         name: 'Cơm gạo lứt cá ngừ', 
-                        nameEn: 'Brown rice with tuna',
                         img: '/asset/img/menukhachle/can_doi/com_gao_lut_ca_ngu.png', 
                         kcal: '434',
                         energy: '434',
@@ -544,7 +503,6 @@ goiantuan: {
                     },
                     lunch: { 
                         name: 'Cá hồi rau củ', 
-                        nameEn: 'Salmon with vegetables',
                         img: '/asset/img/menukhachle/it_calo/ca_hoi_rau_cu.png', 
                         kcal: '320',
                         energy: '320',
@@ -555,7 +513,6 @@ goiantuan: {
                     },
                     dinner: { 
                         name: 'Mì tôm Nhật', 
-                        nameEn: 'Japanese shrimp noodle',
                         img: '/asset/img/menukhachle/it_calo/mi_tom_Nhat.png', 
                         kcal: '341',
                         energy: '341',
@@ -567,11 +524,9 @@ goiantuan: {
                 },
                 {
                     day: 'Thứ 3',
-                    dayName: 'TUESDAY',
                     dayNumber: '23',
                     breakfast: { 
                         name: 'Cơm trắng ức vịt', 
-                        nameEn: 'White rice with duck breast',
                         img: '/asset/img/menukhachle/can_doi/com_trang_uc_vit.png', 
                         kcal: '586',
                         energy: '586',
@@ -582,7 +537,6 @@ goiantuan: {
                     },
                     lunch: { 
                         name: 'Ức gà khoai tây', 
-                        nameEn: 'Chicken breast with potato',
                         img: '/asset/img/menukhachle/it_calo/uc_ga_khoai_tay.png', 
                         kcal: '285',
                         energy: '285',
@@ -593,7 +547,6 @@ goiantuan: {
                     },
                     dinner: { 
                         name: 'Mì gà sốt cajun', 
-                        nameEn: 'Chicken cajun noodle',
                         img: '/asset/img/menukhachle/it_calo/mi_ga_sot_cajun.png', 
                         kcal: '351',
                         energy: '351',
@@ -605,11 +558,9 @@ goiantuan: {
                 },
                 {
                     day: 'Thứ 4',
-                    dayName: 'WEDNESDAY',
                     dayNumber: '21',
                     breakfast: { 
                         name: 'Cơm gạo lứt cá basa', 
-                        nameEn: 'Brown rice with basa fish',
                         img: '/asset/img/menukhachle/can_doi/com_gao_lut_ca_basa.png', 
                         kcal: '442',
                         energy: '442',
@@ -620,7 +571,6 @@ goiantuan: {
                     },
                     lunch: { 
                         name: 'Cá ngừ khoai bắp', 
-                        nameEn: 'Tuna with sweet potato & corn',
                         img: '/asset/img/menukhachle/it_calo/ca_ngu_khoai_bap.png', 
                         kcal: '311',
                         energy: '311',
@@ -631,7 +581,6 @@ goiantuan: {
                     },
                     dinner: { 
                         name: 'Gà sốt cajun củ dền', 
-                        nameEn: 'Chicken cajun with beetroot',
                         img: '/asset/img/menukhachle/it_calo/ga_sot_cajun_cu_den.png', 
                         kcal: '373',
                         energy: '373',
@@ -643,11 +592,9 @@ goiantuan: {
                 },
                 {
                     day: 'Thứ 5',
-                    dayName: 'THURSDAY',
                     dayNumber: '24',
                     breakfast: { 
                         name: 'Ức gà khoai tây', 
-                        nameEn: 'Chicken breast with potato',
                         img: '/asset/img/menukhachle/can_doi/uc_ga_khoai_tay.png', 
                         kcal: '440',
                         energy: '440',
@@ -658,7 +605,6 @@ goiantuan: {
                     },
                     lunch: { 
                         name: 'Mì cá basa', 
-                        nameEn: 'Noodle with basa fish',
                         img: '/asset/img/menukhachle/it_calo/mi_ca_basa.png', 
                         kcal: '439',
                         energy: '439',
@@ -669,7 +615,6 @@ goiantuan: {
                     },
                     dinner: { 
                         name: 'Bò bông cải xanh', 
-                        nameEn: 'Beef with broccoli',
                         img: '/asset/img/menukhachle/it_calo/bo_bong_cai_xanh.png', 
                         kcal: '341',
                         energy: '341',
@@ -681,11 +626,9 @@ goiantuan: {
                 },
                 {
                     day: 'Thứ 6',
-                    dayName: 'FRIDAY',
                     dayNumber: '32',
                     breakfast: { 
                         name: 'Cơm gạo lứt gà tôm', 
-                        nameEn: 'Brown rice with chicken & shrimp',
                         img: '/asset/img/menukhachle/can_doi/com_gao_lut_ga_tom.png', 
                         kcal: '488',
                         energy: '488',
@@ -696,7 +639,6 @@ goiantuan: {
                     },
                     lunch: { 
                         name: 'Bò nướng khoai lang', 
-                        nameEn: 'Grilled beef with sweet potato',
                         img: '/asset/img/menukhachle/it_calo/bo_nuong_khoai_lang.png', 
                         kcal: '274',
                         energy: '274',
@@ -707,7 +649,6 @@ goiantuan: {
                     },
                     dinner: { 
                         name: 'Ức vịt bí đỏ', 
-                        nameEn: 'Duck breast with pumpkin',
                         img: '/asset/img/menukhachle/it_calo/uc_vit_bi_do.png', 
                         kcal: '341',
                         energy: '341',
@@ -737,11 +678,9 @@ goiantuan: {
             meals: [
                 {
                     day: 'Thứ 2',
-                    dayName: 'MONDAY',
                     dayNumber: '23',
                     breakfast: { 
                         name: 'Cơm gạo lứt bò', 
-                        nameEn: 'Brown rice with beef',
                         img: '/asset/img/menukhachle/can_doi/com_gao_lut_bo.png', 
                         kcal: '557',
                         energy: '557',
@@ -752,7 +691,6 @@ goiantuan: {
                     },
                     lunch: { 
                         name: 'Mì tôm Nhật', 
-                        nameEn: 'Japanese shrimp noodle',
                         img: '/asset/img/menukhachle/it_calo/mi_tom_Nhat.png', 
                         kcal: '341',
                         energy: '341',
@@ -763,7 +701,6 @@ goiantuan: {
                     },
                     dinner: { 
                         name: 'Ức gà khoai tây', 
-                        nameEn: 'Chicken breast with potato',
                         img: '/asset/img/menukhachle/it_calo/uc_ga_khoai_tay.png', 
                         kcal: '285',
                         energy: '285',
@@ -779,7 +716,6 @@ goiantuan: {
                     dayNumber: '23',
                     breakfast: { 
                         name: 'Cơm trắng cá ngừ', 
-                        nameEn: 'White rice with tuna',
                         img: '/asset/img/menukhachle/can_doi/com_trang_ca_ngu.png', 
                         kcal: '437',
                         energy: '437',
@@ -790,7 +726,6 @@ goiantuan: {
                     },
                     lunch: { 
                         name: 'Cá hồi rau củ', 
-                        nameEn: 'Salmon with vegetables',
                         img: '/asset/img/menukhachle/it_calo/ca_hoi_rau_cu.png', 
                         kcal: '320',
                         energy: '320',
@@ -801,7 +736,6 @@ goiantuan: {
                     },
                     dinner: { 
                         name: 'Mì gà sốt cajun', 
-                        nameEn: 'Chicken cajun noodle',
                         img: '/asset/img/menukhachle/it_calo/mi_ga_sot_cajun.png', 
                         kcal: '351',
                         energy: '351',
@@ -813,11 +747,9 @@ goiantuan: {
                 },
                 {
                     day: 'Thứ 4',
-                    dayName: 'WEDNESDAY',
                     dayNumber: '21',
                     breakfast: { 
                         name: 'Cơm gạo lứt ức gà', 
-                        nameEn: 'Brown rice with chicken breast',
                         img: '/asset/img/menukhachle/can_doi/com_gao_lut_uc_ga.png', 
                         kcal: '542',
                         energy: '542',
@@ -828,7 +760,6 @@ goiantuan: {
                     },
                     lunch: { 
                         name: 'Cá ngừ khoai bắp', 
-                        nameEn: 'Tuna with sweet potato & corn',
                         img: '/asset/img/menukhachle/it_calo/ca_ngu_khoai_bap.png', 
                         kcal: '311',
                         energy: '311',
@@ -839,7 +770,6 @@ goiantuan: {
                     },
                     dinner: { 
                         name: 'Gà sốt cajun củ dền', 
-                        nameEn: 'Chicken cajun with beetroot',
                         img: '/asset/img/menukhachle/it_calo/ga_sot_cajun_cu_den.png', 
                         kcal: '373',
                         energy: '373',
@@ -855,7 +785,6 @@ goiantuan: {
                     dayNumber: '24',
                     breakfast: { 
                         name: 'Cơm gạo lứt cá basa chiên', 
-                        nameEn: 'Brown rice with fried basa',
                         img: '/asset/img/menukhachle/can_doi/com_gao_lut_ca_basa_chien.png', 
                         kcal: '441',
                         energy: '441',
@@ -866,7 +795,6 @@ goiantuan: {
                     },
                     lunch: { 
                         name: 'Mì cá basa', 
-                        nameEn: 'Noodle with basa fish',
                         img: '/asset/img/menukhachle/it_calo/mi_ca_basa.png', 
                         kcal: '439',
                         energy: '439',
@@ -877,7 +805,6 @@ goiantuan: {
                     },
                     dinner: { 
                         name: 'Bò bông cải xanh', 
-                        nameEn: 'Beef with broccoli',
                         img: '/asset/img/menukhachle/it_calo/bo_bong_cai_xanh.png', 
                         kcal: '341',
                         energy: '341',
@@ -889,11 +816,9 @@ goiantuan: {
                 },
                 {
                     day: 'Thứ 6',
-                    dayName: 'FRIDAY',
                     dayNumber: '32',
                     breakfast: { 
                         name: 'Mì bò tôm', 
-                        nameEn: 'Noodle with beef & shrimp',
                         img: '/asset/img/menukhachle/can_doi/mi_bo_tom.png', 
                         kcal: '515',
                         energy: '515',
@@ -904,7 +829,6 @@ goiantuan: {
                     },
                     lunch: { 
                         name: 'Bò nướng khoai lang', 
-                        nameEn: 'Grilled beef with sweet potato',
                         img: '/asset/img/menukhachle/it_calo/bo_nuong_khoai_lang.png', 
                         kcal: '274',
                         energy: '274',
@@ -915,7 +839,6 @@ goiantuan: {
                     },
                     dinner: { 
                         name: 'Ức vịt bí đỏ', 
-                        nameEn: 'Duck breast with pumpkin',
                         img: '/asset/img/menukhachle/it_calo/uc_vit_bi_do.png', 
                         kcal: '341',
                         energy: '341',
